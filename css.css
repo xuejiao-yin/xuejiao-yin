@@ -15,7 +15,7 @@
 .content1 .p{font-size:14px;padding-top:2px;padding-bottom: 8px;}
 .content1 a{display:block;color:#41454D;text-decoration: none;background-color:#F7F7F7;height: 52px;}
 .content1 a .pir1 img{width:40px;height:40px;overflow: hidden;padding-top:5px;padding-left:6px;float: left;}
-.content1 a span{font-size: 13px;padding-left:6px;text-align: center;line-height: 52px;}
+.content1 a span{font-size:13px;padding-left:6px;text-align: center;line-height:52px;}
 .content1 .like,.content1 .comment,.content1 .delete{padding-top:5px;}.content1 .like span,.content1 .comment span,.delete span{font-size:12px;color:#80858C;position: relative;top:-5px;}
 .content1 .comment{padding-left:54px;} .content1 .like,.content1 .comment{float: left;}
 .content1 .time{clear: both; padding-bottom: 8px;}.content1 .time span{font-size: 12px;color:#ACB1B7;}
@@ -25,8 +25,8 @@ ul{list-style: none;} .content1 .com,.content1 .com1{font-size:14px;color:#41454
 .content1 .look{padding-top:8px;}.content1 .look span{font-size:12px;color:#ACB1B7;}
 .content1 .img{width: 172px;height: 172px;overflow: hidden;}
 .content1 .img1,.content1 .img2{float:left;height: 134px;}
-.content1 .img1 img{width:45%;height:134px;}
-.content1 .img2 img{width:25%;height:88px;}
+.content1 .img1 img{width:47%;height:134px;}
+.content1 .img2 img{width:30%;height:88px;}
 .content1 .img1{height: 134px;}.content1 .img2{height: 88px;}
 .bottom{border-top:1px solid #ACB1B7;text-align: center;}
 .bottom{border-top:1px solid #ACB1B7;text-align: center;padding-top: 12px;padding-bottom: 16px;}
